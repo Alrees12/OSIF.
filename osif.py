@@ -75,7 +75,7 @@ def show_program():
 
     Author     Debby Anggraini 'Alrees12'
     Name      OSIF is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
-    Name      
+    Name      ALREES
     version    full version
     Date       25/03/2023 09:35:12
     Team       information security
@@ -486,7 +486,7 @@ def menu_reaction_ask():
   try:
 	global type
 
-	cek = raw_input(R + 'D3b2y' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
+	cek = raw_input(R + 'ALREES' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
 
 	if cek in ['1','01']:
 		type = 'LIKE'
@@ -568,7 +568,7 @@ def bot():
   try:
 	global type , message , id , WT , token
 
-	cek = raw_input(R + 'D3b2y' + W +'/' + R +'Bot ' + W + '>> ')
+	cek = raw_input(R + 'ALREES' + W +'/' + R +'Bot ' + W + '>> ')
 
 	if cek in ['1','01']:
 		menu_reaction()
@@ -921,7 +921,7 @@ def main():
   global target_id
 
   try:
-	cek = raw_input(R + 'D3b2y' + W +' >> ')
+	cek = raw_input(R + 'ALREES' + W +' >> ')
 
 	if cek.lower() == 'get_data':
 		if len(jml) == 0:
