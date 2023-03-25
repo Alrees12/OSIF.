@@ -1,5 +1,4 @@
-
-# from turtle import 
+import turtle from 
 color('red', 'yellow')
 begin_fill()
 while True:
@@ -30,7 +29,7 @@ done()
                                                    
                                      
                                        
-                                          O S I F .
+                                          turtle
                             [open source information facebook]
 ```
 OSIF. is an accurate facebook account information gathering, all sensitive information can be easily gathered even though the target converts all of its privacy to (only me), Sensitive information about residence, date of birth, occupation, phone number and email address.
@@ -51,7 +50,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif..py
+$ python2 osif.py
 ```
 
 * if you are confused how to use it, please type 'help' to display the help menu
